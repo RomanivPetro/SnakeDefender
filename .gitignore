@@ -3,6 +3,11 @@
 *.lo
 *.o
 *.obj
+**/bin/
+**/obj/
+*.suo
+*.user
+*.dbmdl
 
 # Precompiled Headers
 *.gch
