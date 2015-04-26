@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnakeDefender.ConsoleUI", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnakeDefender.GameEngine.Test", "SnakeDefender.GameEngine.Test\SnakeDefender.GameEngine.Test.csproj", "{62457673-3696-416F-900E-7775C450F83C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnakeDefender.DesktopUI", "SnakeDefender.DesktopUI\SnakeDefender.DesktopUI.csproj", "{777416F4-823A-47CA-952B-5F1D297EBD7D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{62457673-3696-416F-900E-7775C450F83C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{62457673-3696-416F-900E-7775C450F83C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{62457673-3696-416F-900E-7775C450F83C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{777416F4-823A-47CA-952B-5F1D297EBD7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{777416F4-823A-47CA-952B-5F1D297EBD7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{777416F4-823A-47CA-952B-5F1D297EBD7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{777416F4-823A-47CA-952B-5F1D297EBD7D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
